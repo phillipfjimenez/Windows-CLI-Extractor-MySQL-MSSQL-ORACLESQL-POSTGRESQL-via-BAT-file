@@ -13,4 +13,4 @@
 7. To Run the **SQL Script**, run **extract.bat** from **CLI-Directory** then Enter the **SQL Script Filename**.
 8. You can also open **Command Prompt **and **Locate** the bat file to run.
 
-## Thanks to each Creator of this each CLI SQL Tools.
+## Thanks to each Creator of this CLI SQL Tools.
