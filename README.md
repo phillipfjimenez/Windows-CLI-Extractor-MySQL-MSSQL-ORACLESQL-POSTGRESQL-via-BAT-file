@@ -14,3 +14,4 @@
 8. You can also open **Command Prompt **and **Locate** the bat file to run.
 
 ## Thanks to each Creator of this CLI SQL Tools.
+### Will be adding command line paremeterize for script execution soon.
